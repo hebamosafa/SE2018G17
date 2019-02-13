@@ -21,3 +21,7 @@ MOSTAFA HAMED
 HEBA MOSTAFA
 
 HADY SAMEH
+
+BRD: https://github.com/MostafaHamedAbdelmasoud/SE2018G17/blob/master/BRD-final%20edition.pdf
+
+SRS:
