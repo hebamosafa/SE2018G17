@@ -26,6 +26,10 @@ HADY SAMEH
 
 website link: https://thehshops.com/symptom/
 
+ADMIN (username & password)
+mostafa.hamed1944@gmail.com
+123456
+
 
 BRD: https://github.com/MostafaHamedAbdelmasoud/SE2018G17/blob/master/BRD-final%20edition.pdf
 
