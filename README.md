@@ -7,25 +7,14 @@ This project is a symptom checker, is a web software system which you can know t
 NAME OF TEAM 
 
 SARA KHALED
-
+SHROUK RAGHEB ABD_ELAZEEM 
 SARA ABDELKHALEK
-
 SARA SAFWAT
-
-SHROUK RAGHEB AAMER
-
 OMAR ABDELAZEEZ BASYOUNI
-
 MOHAMED AHMED YASSER
-
 MOSTAFA HAMED
-
 HEBA MOSTAFA
-
 HADY SAMEH
-
-
-online website: https://thehshops.com/symptom/
 
 BRD: https://github.com/MostafaHamedAbdelmasoud/SE2018G17/blob/master/BRD-final%20edition.pdf
 
