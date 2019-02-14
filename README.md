@@ -27,7 +27,9 @@ HADY SAMEH
 website link: https://thehshops.com/symptom/
 
 ADMIN (username & password)
+username: 
 mostafa.hamed1944@gmail.com
+password: 
 123456
 
 
