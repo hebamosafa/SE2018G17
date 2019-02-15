@@ -24,14 +24,19 @@ HEBA MOSTAFA
 
 HADY SAMEH
 
-website link: https://thehshops.com/symptom/
+/*************/
+
+website link: https://thehshops.com/symptoms/
 
 ADMIN (username & password)
+
 username: 
 mostafa.hamed1944@gmail.com
+
 password: 
 123456
 
+/**************/
 
 BRD: https://github.com/MostafaHamedAbdelmasoud/SE2018G17/tree/master/BRD
 
