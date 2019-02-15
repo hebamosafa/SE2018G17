@@ -35,4 +35,4 @@ password:
 
 BRD: https://github.com/MostafaHamedAbdelmasoud/SE2018G17/tree/master/BRD
 
-SRS:https://github.com/MostafaHamedAbdelmasoud/SE2018G17/blob/master/srs.doc
+SRS:https://github.com/MostafaHamedAbdelmasoud/SE2018G17/tree/master/srs
