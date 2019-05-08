@@ -4,7 +4,7 @@ This project is a symptom checker, is a web software system which you can know t
 hghjhg
 
 
-#NAME OF TEAM 
+**NAME OF TEAM** 
 
 SARA KHALED
 
